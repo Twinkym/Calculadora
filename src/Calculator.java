@@ -41,7 +41,7 @@ public class Calculator {
     private static int addTwoNumber(int num1, int num2) {
         return num1 + num2;
     }
-
+// uff veremos que pasa con git
     private static void printResult(int result) {
         System.out.println("Resultat: " + result);
     }
